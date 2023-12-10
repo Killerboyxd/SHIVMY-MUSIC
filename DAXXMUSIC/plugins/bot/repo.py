@@ -4,7 +4,7 @@ from DAXXMUSIC import app
 from config import BOT_USERNAME
 
 start_txt = """**
-✪ ωεℓ¢σмє тσ χᴅ яєρσ ✪
+✪ ωεℓ¢σмє тσ sʜɪᴠ яєρσ ✪
  
  ➲ ᴀʟʟ ʀᴇᴘᴏ ᴇᴀsɪʟʏ ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ ᴡɪᴛʜᴏᴜᴛ ᴀɴʏ ᴇʀʀᴏʀ ✰
  
@@ -33,7 +33,7 @@ async def start(_, msg):
           InlineKeyboardButton("σωиєя", url="https://t.me/ll_SABKA_BHAI_KILLER_ll/"),
           ],
                [
-                InlineKeyboardButton("Δʙᴏᴜᴛ sʜɪᴠ", url="https://t.me/ll_DJ_BOL_ll),
+                InlineKeyboardButton("Δʙᴏᴜᴛ sʜɪᴠ", url="https://t.me/ll_SABKA_BHAI_KILLER_ll),
 
 ],
 [
